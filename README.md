@@ -6,7 +6,13 @@ A simple to-do list made with React.sj.
 
 ## Why?
 
-To lear/practice the basics of React.
+To learn/practice the basics of React.
+
+## How to run it?
+
+Clone it into an empty directory and run
+
+### `npm start`
 
 ### Also
 
